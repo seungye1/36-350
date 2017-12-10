@@ -6,4 +6,4 @@ cat("Hello aliens, \n I'm a human from planet Earth. We, human beings,
     outside. How is your planet? Do you live outside? Or have you built
     something to live inside of? What kinds of food do you eat to stay alive?
     I was also wondering, what is your population? \n
-    Best, Sophia")
+    Best, \n Sophia")
